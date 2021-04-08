@@ -2,6 +2,8 @@
 
 > Spend 15 to 30 minutes daily to work on the Kata
 > 
+> Write test (failing test) before anything else (red -> green -> refactor)
+> 
 > Come  up with your own Kata and share with the team
 > 
 > To increase difficulty level, only  use keyboard shortcuts (minimum use of mouse)
@@ -18,7 +20,7 @@ Build an API for the following:
    
    `Y` and `M` and `D` must be number
    
-   No date validation required (i.e. doesn't have to be a valid date)
+   Date validation is optional
    
 4. Should return Internal Server Error with error message if service
    layer return error.
