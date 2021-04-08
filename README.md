@@ -1,14 +1,14 @@
-# Kata Rego
+# TDD Kata - API - Car Registation
 
 > Spend 15 to 30 minutes daily to work on the Kata
 > 
 > Write test (failing test) before anything else (red -> green -> refactor)
 > 
-> Come  up with your own Kata and share with the team
+> Come up with your own Kata and share with the team
 > 
-> To increase difficulty level, only  use keyboard shortcuts (minimum use of mouse)
+> To increase difficulty level, only use keyboard shortcuts (minimum use of mouse)
 
-## Part 1
+## Tasks
 
 Build an API for the following:
 
